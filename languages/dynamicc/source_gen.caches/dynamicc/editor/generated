@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product version="3" modelHash="hsx4w4aubb5z8yawz3mevvdfg0w0jo">
+  <files names="Assignment_Editor.java:Assignment_EditorBuilder_a.java:CCodeBlock_Editor.java:CCodeBlock_EditorBuilder_a.java:CCode_StyleSheet.java:Cast_Editor.java:Cast_EditorBuilder_a.java:Common_StyleSheet.java:EditorAspectDescriptorImpl.java:FunctionParameter_Editor.java:FunctionParameter_EditorBuilder_a.java:FunctionParameter_SubstituteMenu.java:Function_Editor.java:Function_EditorBuilder_a.java:Int10LiteralConcept_Editor.java:Int10LiteralConcept_EditorBuilder_a.java:Module_Editor.java:Module_EditorBuilder_a.java:NewlineStatement_Editor.java:NewlineStatement_EditorBuilder_a.java:SingleLineComment_Editor.java:SingleLineComment_EditorBuilder_a.java:Type_Editor.java:Type_EditorBuilder_a.java:Type_StyleSheet.java:VariableAccess_Editor.java:VariableAccess_EditorBuilder_a.java:VariableAccess_SubstituteMenu.java:Variable_Editor.java:Variable_EditorBuilder_a.java:Variable_StyleSheet.java" />
+</product>
+
