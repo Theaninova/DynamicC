@@ -11,6 +11,59 @@ Syntax is heavily inspired by Kotlin, and does not aim for compatibility with C.
 ### Safe Memory Access
 Todo;
 
+### Tuples
+Todo;
+```
+val a: (int8, byte32) = (7, 9)
+```
+
+### Named Maps
+We all know these are just structs.
+```
+map A {
+  a: int8
+  b: byte32
+}
+```
+
+### Named Function Parameter Access
+Todo;
+```
+fun foo(a: int8, b: int32?, c: byte8) { ... }
+
+foo(c: 16, a: 63)
+```
+
+### Default Parameters
+Todo;
+```
+fun foo(a: int8 = 16) { ... }
+
+// a will be 16
+foo()
+
+// a will be 32
+foo(32)
+```
+
+### Template Strings
+Todo;
+```
+val a: int32 = 16
+
+"This int is {a}"
+```
+
+### Generics
+Todo;
+```
+fun foo<T, G>(a: T): G {
+  ...
+}
+
+foo<int32, int32>(23, 54)
+```
+
 ### Cleaned Up Types
 C99 comes with so many unclear types, it's actually insane to keep track of. We use instead `uint8..128`, `int8..128`, `byte8..128` and `float32..128` for most things.
 
